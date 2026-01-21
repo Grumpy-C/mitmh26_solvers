@@ -1,3 +1,4 @@
+# original file name: mirdicot_Imgonnafuckingkillyou.py
 import math
 
 string = "0001001010001001110011111101110011010100100000011010100110111110"
@@ -26,5 +27,6 @@ def recursion(middle, iteration):
         res2 = recursion(middle + 2**-(iteration+3), iteration+1)
     else:
         return None
+
 
 recursion(0.25, 0)
