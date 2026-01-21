@@ -1,6 +1,6 @@
 # mit mystery hunt 2026 solvers
 
-various solvers i used within this puzzlehunt, this was mainly for the dichotomy mini-puzzles
+various solvers i used within this puzzlehunt, this was mainly for the dichotomies mini-puzzles
 team (literally animal farm) ended up 8th
 just wanted to post these solvers
 
