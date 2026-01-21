@@ -1,3 +1,4 @@
+# original file name: mitdicot_cwt.py
 import time
 
 lower_bound = 0
@@ -56,4 +57,5 @@ for char in string:
         precision += 1
         lower_bound *= 10
         upper_bound *= 10
+
     strindex += 1
